@@ -1,6 +1,6 @@
 # <i>WordleGame<i>
 
-## <i>2021 – 2022 SPRING CMP2004 Advanced Programming Term Project<i> 
+## <i>BAU 2021 – 2022 SPRING CMP2004 Advanced Programming Term Project<i> 
 
 <i>You are expected to implement a simple wordle game with the following scenario:
 You need to create a meaningful word database. There 5 tries. On each trial, the user
