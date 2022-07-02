@@ -1,4 +1,3 @@
-
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -33,7 +32,6 @@ import java.awt.Color;
 import java.awt.FlowLayout;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
-
 
 public class VisitorPage implements ActionListener{
 	static Color myGreen = new Color(119,170,95,255);
