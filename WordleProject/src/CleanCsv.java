@@ -1,6 +1,6 @@
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
-
+// this java file was created for cleanin csv file
 public class CleanCsv {
 	public char letters[]= {'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','V','Z'};
 	public int numbers[];
